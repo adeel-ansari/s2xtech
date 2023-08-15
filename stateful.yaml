@@ -80,4 +80,5 @@ metadata:
     name: mysecret
 type: Opaque
 data:
-   ROOT_PASSWORD: ugwu
+   ROOT_PASSWORD: bm5hbWRpCg==
+
